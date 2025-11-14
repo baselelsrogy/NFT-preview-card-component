@@ -5,10 +5,6 @@ This project is part of my **Front-End learning journey** with [almdrasa.com](ht
 This project is a solution to the **NFT Preview Card Component** challenge from Frontend Mentor.  
 It showcases a simple, responsive, and interactive NFT preview card built using **HTML** and **CSS**.
 
-## 📸 Preview
-
-![Preview Image](./design/active-states.jpg)
-
 ## 🚀 Features
 
 -   Hover overlay effect on the NFT image
@@ -43,9 +39,13 @@ The main NFT card is divided into four sections:
 -   Layout structured using Flexbox
 -   Smooth transitions for interactive feel
 
+## 📸 Preview
+
+![Preview Image](./design/active-states.jpg)
+
 ## 🚀Live Demo
 
--
+-   https://baselelsrogy.github.io/NFT-preview-card-component/
 
 ## 🧑‍💻 Author
 
