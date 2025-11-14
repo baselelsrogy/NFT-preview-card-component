@@ -79,6 +79,7 @@ body {
 }
 
 .title-card {
+    font-size: 28px;
     display: inline-block;
     color: var(--white-color);
     margin-bottom: 15px;
